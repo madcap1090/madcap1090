@@ -25,13 +25,12 @@ Welcome to my GitHub space, where words meet wisdom and sentences spark solution
 
 - 🎙️ Voice to text isn't just a project, it's how I wrote this README! (Okay, maybe not, but wouldn't that be cool?)
 - 🤔 Pondering how AI can understand puns and jokes. NLP with a sense of humor, anyone?
-- 📈 Obsessed with optimizing everything, even my coffee brewing process.
+- 📈 Obsessed with optimizing everything, even my tea brewing process.
 
 ### Let's Connect!
 
-- 🐦 Twitter: [Your Twitter Handle]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📫 How to reach me: [Your Email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/williambourgeois/]
+- 📫 How to reach me: [madcap1090@gmail.com]
 
 Remember, in a world full of data, be the algorithm that makes sense of it all!
 
