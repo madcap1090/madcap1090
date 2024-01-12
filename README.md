@@ -36,6 +36,8 @@ Remember, in a world full of data, be the algorithm that makes sense of it all!
 
 Happy Coding! 🚀
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ---
 
 > "To iterate is human, to recurse divine." - L. Peter Deutsch
