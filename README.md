@@ -29,8 +29,8 @@ Welcome to my GitHub space, where words meet wisdom and sentences spark solution
 
 ### Let's Connect!
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/williambourgeois/]
-- 📫 How to reach me: [madcap1090@gmail.com]
+- 🔗 LinkedIn: [William Bourgeois](https://www.linkedin.com/in/williambourgeois/)
+- 📧 How to reach me: [madcap1090@gmail.com](mailto:madcap1090@gmail.com)
 
 Remember, in a world full of data, be the algorithm that makes sense of it all!
 
