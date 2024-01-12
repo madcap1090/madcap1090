@@ -38,7 +38,11 @@ Remember, in a world full of data, be the algorithm that makes sense of it all!
 
 Happy Coding! 🚀
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,r,docker,c,aws" />
+  </a>
+</p>
 
 ---
 
