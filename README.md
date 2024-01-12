@@ -40,7 +40,7 @@ Happy Coding! 🚀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,r,docker,c,aws" />
+    <img src="https://skillicons.dev/icons?i=git,python,r,docker,aws,github,jenkins,linux,pytorch,sklearn,selenium,vscode" />
   </a>
 </p>
 
