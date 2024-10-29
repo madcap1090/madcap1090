@@ -16,6 +16,7 @@ Welcome to my GitHub space, where words meet wisdom and sentences spark solution
 - **Retrieval-Augmented Generation (RAG)**: Merging the best of retrieval and generation for state-of-the-art question answering.
 - **Open Source Large Language Models (LLMs)**: Harnessing the power of giants like GPT-4 to unearth insights and innovations.
 - **Voice to Text Technologies**: Transforming spoken words into written wonders, one algorithm at a time.
+- **Time series analysis**: Optimising cash flow management
 
 ### My GitHub Journey
 
