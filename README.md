@@ -61,7 +61,7 @@ I work at the intersection of data, healthcare operations, and AI: building thin
 
 > “Useful beats impressive.”
 
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,python,r,docker,aws,github,jenkins,linux,pytorch,sklearn,selenium,vscode" /> </a> </p> ---
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,python,r,docker,aws,github,jenkins,linux,pytorch,sklearn,selenium,vscode" /> </a> </p>
 
 <!--
 **madcap1090/madcap1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
