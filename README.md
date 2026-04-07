@@ -4,7 +4,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-I work at the intersection of data, healthcare operations, and AI—building things that actually get used.
+I work at the intersection of data, healthcare operations, and AI: building things that actually get used.
 
 ---
 
@@ -58,7 +58,6 @@ I work at the intersection of data, healthcare operations, and AI—building thi
 - LinkedIn: https://www.linkedin.com/in/williambourgeois/
 - Email: william.mja.bourgeois@gmail.com
 
----
 
 > “Useful beats impressive.”
 
